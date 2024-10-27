@@ -1,3 +1,6 @@
+### Credit
+This function is taken from here https://github.com/Gilbishkosma/templates/tree/feat-implement-storage-cleaner-node/node/storage-cleaner
+
 # 🧹 Node.js Storage Cleaner Function
 
 Storage cleaner function to remove all files older than X number of days from the specified bucket.
